@@ -1,0 +1,10 @@
+[X] HTML/CSS/JS 
+[] Your API or db.json should return a collection of at least 5 objects with each object having at least 3 attributes. 
+[] Your entire app must run on a single page. There should be NO redirects or reloads. In other words, your project will contain a single HTML file.
+[] Use at least 2 distinct event listenersLinks to an external site. (2 events of different types) that enable interactivity. 
+[] Your project must implement at least one instance of array iteration using available array methods (map, forEach, filter, etc). Interacting with your API data in some way should present an opportunity to use array iteration.
+[X] A well-written informative README.md file & License . (SHAYLA UPDATE WEBSITE) http://127.0.0.1:3000/index.html
+[] A video walkthrough of your app
+[X] Mobile friendly
+[] 30 Commits
+[] render data in HTML DOM
