@@ -6,4 +6,6 @@ const hairPatterns = {
     pattern5: "Water Wave"
 };
 
+function hairPatterns(pattern1, pattern2, pattern3, pattern4, pattern5)
+
 hairPatterns()
