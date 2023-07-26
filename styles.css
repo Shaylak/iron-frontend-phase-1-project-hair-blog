@@ -1,4 +1,38 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    color: coral;
+}
+
 body {
     background-color: aqua;
     font-family: cursive;
+    border: 6px solid black;
+    
+}
+
+h2 {
+    text-align: center;
+    color: deeppink;
+}
+
+
+p {
+
+    text-align: center;
+    font-size: medium; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+video {
+    display: block;
+    margin: 0 auto;
 }
