@@ -8,6 +8,18 @@ const handleFormInputFocus = () => {
 }
 
 
-const searchTermsInput = document.body.querySelector("#search-terms")
+document.getElementById("myForm").addEventListener("submit", myFunction);
 
-searchTermsInput.addEventListener('focus', handleFormInputFocus)
+function myFunction() {
+  alert("The form was submitted");
+}
+
+/*document.getElementById("btn").addEventListener("delete", myFunction);
+function myFunction() {
+    alert("Comment Deleted")
+}*/
+
+document.getElementById('button').addEventListener('click', myFunction2);
+function myFunction2() {
+    alert("Post Deleted")
+};
